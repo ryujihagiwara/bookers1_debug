@@ -1,6 +1,7 @@
-class Controller < ApplicationController
+class HomeController < ApplicationController
   
   def top
-  endd
+  	
+  end
   
 end
